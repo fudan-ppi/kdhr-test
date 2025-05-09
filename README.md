@@ -1,7 +1,7 @@
 # kdhr-test
 This project contains tests for kdhr project.
 
-We prepare a docker image on [baidu netdisk](https://pan.baidu.com/s/1pXSwqEmQ_ArzRYrozkd6zA?pwd=yyng).
+We prepare a docker image on [baidu netdisk](https://pan.baidu.com/s/1P24DQjRLry7eFph_gUpR8w?pwd=ruen).
 Download this image, and execute the following commands to open the test environment:
 ```bash
 gunzip kdhr-test.tar.gz
