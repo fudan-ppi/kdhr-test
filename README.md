@@ -11,8 +11,8 @@ docker exec -it kdhr-test /bin/bash
 su dhr # Password = 123456
 cd ~/kdhr-test
 ```
-Then run tests by `./test.exp <test_name>`.
+Then run tests by `sudo ./test.exp <test_name>`.
 Example:
 ```bash
-./test.exp test2.1
+sudo ./test.exp test2.1
 ```
